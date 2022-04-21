@@ -10,7 +10,7 @@ const { setTimeout } = require('timers/promises');
 const app=express();
 
 
-//define paths for express configuration
+//define paths for express configuratio
 
 const publicDirectory=path.join(__dirname,"../public")
 const viewsPath=path.join(__dirname,'../templates/views')
